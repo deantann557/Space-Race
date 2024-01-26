@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Space Race", "Space Race\Space Race.csproj", "{622DCB86-F285-4D43-B532-216B852C5F18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{622DCB86-F285-4D43-B532-216B852C5F18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{622DCB86-F285-4D43-B532-216B852C5F18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{622DCB86-F285-4D43-B532-216B852C5F18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{622DCB86-F285-4D43-B532-216B852C5F18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11E561AB-2CAE-4F38-8B9F-6ECDBD814CAB}
+	EndGlobalSection
+EndGlobal
